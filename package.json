@@ -1,7 +1,7 @@
 {
   "name": "cassette",
   "productName": "Cassette",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "Lecteur Apple Music pour elementary OS, dérivé de Sidra de Martin Wimpress.",
   "main": "dist/main.js",
   "scripts": {
@@ -9,13 +9,13 @@
     "test": "vitest run",
     "test:watch": "vitest"
   },
-  "author": "melvincouwez-alt <301110918+melvincouwez-alt@users.noreply.github.com>",
-  "homepage": "https://github.com/melvincouwez-alt/cassette",
+  "author": "MelvinCwz <301110918+Melvin-Cwz@users.noreply.github.com>",
+  "homepage": "https://github.com/Melvin-Cwz/cassette",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/melvincouwez-alt/cassette.git"
+    "url": "git+https://github.com/Melvin-Cwz/cassette.git"
   },
-  "bugs": "https://github.com/melvincouwez-alt/cassette/issues",
+  "bugs": "https://github.com/Melvin-Cwz/cassette/issues",
   "license": "BlueOak-1.0.0",
   "type": "commonjs",
   "devDependencies": {
@@ -35,7 +35,7 @@
   },
   "build": {
     "appId": "io.github.melvincouwez.Cassette",
-    "copyright": "Copyright (c) Martin Wimpress, melvincouwez-alt",
+    "copyright": "Copyright (c) Martin Wimpress, MelvinCwz",
     "artifactName": "${name}_${version}_${arch}.${ext}",
     "electronLanguages": [
       "fr",
@@ -132,7 +132,7 @@
     ],
     "deb": {
       "packageCategory": "sound",
-      "maintainer": "melvincouwez-alt <301110918+melvincouwez-alt@users.noreply.github.com>",
+      "maintainer": "MelvinCwz <301110918+Melvin-Cwz@users.noreply.github.com>",
       "priority": "optional",
       "depends": [
         "libgtk-3-0t64 | libgtk-3-0",

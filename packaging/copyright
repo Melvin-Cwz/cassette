@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: Cassette
-Upstream-Contact: melvincouwez-alt <301110918+melvincouwez-alt@users.noreply.github.com>
-Source: https://github.com/melvincouwez-alt/cassette
+Upstream-Contact: MelvinCwz <301110918+Melvin-Cwz@users.noreply.github.com>
+Source: https://github.com/Melvin-Cwz/cassette
 Comment: Cassette is a fork of Sidra 1.1.2 by Martin Wimpress
  (https://github.com/wimpysworld/sidra). Apple, Apple Music, Apple Music
  Classical, iTunes and the Apple logo are trademarks of Apple Inc. Cassette is
@@ -13,7 +13,7 @@ Comment: Cassette is a fork of Sidra 1.1.2 by Martin Wimpress
 
 Files: *
 Copyright: 2026 Martin Wimpress and the Sidra contributors
-           2026 melvincouwez-alt
+           2026 MelvinCwz
 License: BlueOak-1.0.0
  The full text is in /usr/share/doc/cassette/LICENSE and at
  https://blueoakcouncil.org/license/1.0.0
@@ -49,5 +49,5 @@ Files: usr/share/icons/hicolor/*/apps/io.github.melvincouwez.Cassette.svg
        usr/share/icons/hicolor/*/apps/cassette.png
        opt/Cassette/resources/app.asar.unpacked/assets/icons/sidra-tray-*
        opt/Cassette/resources/app.asar.unpacked/assets/cassette-logo.png
-Copyright: 2026 melvincouwez-alt
+Copyright: 2026 MelvinCwz
 License: BlueOak-1.0.0

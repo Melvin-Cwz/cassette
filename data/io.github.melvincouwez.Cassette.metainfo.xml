@@ -8,7 +8,7 @@
   <summary>Apple Music, the elementary way</summary>
   <summary xml:lang="fr">Apple Music, à la façon d’elementary</summary>
   <developer id="io.github.melvincouwez">
-    <name>melvincouwez-alt</name>
+    <name>MelvinCwz</name>
   </developer>
   <description>
     <p>Cassette plays Apple Music in an elementary OS window: header bar, light and dark styles, media keys and the sound indicator (MPRIS), a mini player and track notifications. An Apple Music subscription is required.</p>
@@ -17,9 +17,9 @@
     <p xml:lang="fr">Cassette est un fork de Sidra de Martin Wimpress. Apple Music est une marque d’Apple Inc. ; Cassette n’est ni affiliée à Apple ni approuvée par Apple.</p>
   </description>
   <launchable type="desktop-id">io.github.melvincouwez.Cassette.desktop</launchable>
-  <url type="homepage">https://github.com/melvincouwez-alt/cassette</url>
-  <url type="bugtracker">https://github.com/melvincouwez-alt/cassette/issues</url>
-  <url type="vcs-browser">https://github.com/melvincouwez-alt/cassette</url>
+  <url type="homepage">https://github.com/Melvin-Cwz/cassette</url>
+  <url type="bugtracker">https://github.com/Melvin-Cwz/cassette/issues</url>
+  <url type="vcs-browser">https://github.com/Melvin-Cwz/cassette</url>
   <categories>
     <category>AudioVideo</category>
     <category>Audio</category>
@@ -34,6 +34,12 @@
   </requires>
   <content_rating type="oars-1.1"/>
   <releases>
+    <release version="0.4.2" date="2026-10-11">
+      <description>
+        <p>French texts reviewed, MelvinCwz signature, new GitHub address (github.com/Melvin-Cwz/cassette).</p>
+        <p xml:lang="fr">Relecture des textes en français, signature MelvinCwz et nouvelle adresse GitHub (github.com/Melvin-Cwz/cassette).</p>
+      </description>
+    </release>
     <release version="0.4.1" date="2026-10-08">
       <description>
         <p>Package and launcher description in French, launcher categories and package section corrected, “Loading…” and “Close to notification area” labels corrected.</p>

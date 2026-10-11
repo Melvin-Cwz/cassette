@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
 <!-- SPDX-License-Identifier: BlueOak-1.0.0 -->
-<!-- SPDX-FileCopyrightText: 2026 melvincouwez-alt -->
+<!-- SPDX-FileCopyrightText: 2026 MelvinCwz -->
 <!-- Cassette: a tape with a raspberry label, sized to elementary's grid (about 90% of the canvas wide, 80% high) -->
 <defs>
 <radialGradient id="sh" cx="64" cy="118" r="56" gradientTransform="matrix(1 0 0 .12 0 103.8)" gradientUnits="userSpaceOnUse"><stop offset="0"/><stop offset="1" stop-opacity="0"/></radialGradient>

@@ -7,7 +7,7 @@ import { openExternalUrl } from './utils/openExternal';
 
 const ABOUT_WINDOW_WIDTH_PX = 400;
 const ABOUT_WINDOW_HEIGHT_PX = 470;
-const ABOUT_LINKS = /^https:\/\/(github\.com\/(melvincouwez-alt\/cassette|wimpysworld\/sidra)|blueoakcouncil\.org\/license\/1\.0\.0)$/;
+const ABOUT_LINKS = /^https:\/\/(github\.com\/((Melvin-Cwz|melvincouwez-alt)\/cassette|wimpysworld\/sidra)|blueoakcouncil\.org\/license\/1\.0\.0)$/;
 
 const aboutLog = log.scope('about');
 

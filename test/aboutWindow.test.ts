@@ -204,9 +204,10 @@ describe("showAboutWindow", () => {
     const handler = latestMockInstance.webContents.setWindowOpenHandler.mock.calls[0][0] as (
       details: { url: string },
     ) => { action: string };
+    expect(handler({ url: "https://github.com/Melvin-Cwz/cassette" })).toEqual({ action: "deny" });
     expect(handler({ url: "https://github.com/melvincouwez-alt/cassette" })).toEqual({ action: "deny" });
     expect(handler({ url: "https://example.com/" })).toEqual({ action: "deny" });
-    expect(vi.mocked(openExternalUrl)).toHaveBeenCalledTimes(1);
-    expect(vi.mocked(openExternalUrl).mock.calls[0][0]).toBe("https://github.com/melvincouwez-alt/cassette");
+    expect(vi.mocked(openExternalUrl)).toHaveBeenCalledTimes(2);
+    expect(vi.mocked(openExternalUrl).mock.calls[0][0]).toBe("https://github.com/Melvin-Cwz/cassette");
   });
 });

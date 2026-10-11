@@ -61,4 +61,4 @@ just lint           # vérification TypeScript de l'appli et des tests
 
 ## Licence
 
-Cassette garde la licence de Sidra, la [Blue Oak Model License 1.0.0](LICENSE). Copyright Martin Wimpress pour Sidra, melvincouwez-alt pour les modifications de Cassette. Le paquet installe ce texte et le détail des licences dans `/usr/share/doc/cassette/`.
+Cassette garde la licence de Sidra, la [Blue Oak Model License 1.0.0](LICENSE). Copyright Martin Wimpress pour Sidra, MelvinCwz pour les modifications de Cassette. Le paquet installe ce texte et le détail des licences dans `/usr/share/doc/cassette/`.
